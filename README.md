@@ -1,6 +1,9 @@
 Robot Vacuum 🧹🤖
 Overview
 
+<img width="1118" height="568" alt="Screenshot 2025-12-01 4 07 03 PM" src="https://github.com/user-attachments/assets/08570733-62fd-467f-a776-6d05fb4a2761" />
+
+
 Features
 
 3D-printed chassis/enclosure — optimized for standard printer beds or split across multiple parts.
