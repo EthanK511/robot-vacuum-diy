@@ -2,6 +2,8 @@
 
 A DIY robot vacuum project
 
+<img width="890" height="252" alt="Screenshot 2025-12-01 4 12 25 PM" src="https://github.com/user-attachments/assets/565f9635-f347-45e9-b053-0aa3bce9a894" />
+
 ## Features
 
 - Autonomous navigation
